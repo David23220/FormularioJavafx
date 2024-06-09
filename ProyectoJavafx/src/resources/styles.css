@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Estilo para ProgressBar */
+.progress-bar {
+    -fx-accent: #ffff00; 
+    -fx-control-inner-background: #e0e0e0; 
+    -fx-border-color: #00ffff; 
+    -fx-border-width: 2px; /* Ancho del borde */
+    -fx-border-radius: 5px; /* Radio del borde */
+    -fx-background-radius: 5px; /* Radio del fondo */
+}
+
+/* Estilo para ProgressIndicator */
+.progress-indicator {
+    -fx-accent: #ff00ff; 
+    -fx-control-inner-background: #e0e0e0; 
+    -fx-border-color: #00ff00; 
+    -fx-border-width: 2px; 
+    -fx-border-radius: 50%; 
+    -fx-background-radius: 50%; 
+}
